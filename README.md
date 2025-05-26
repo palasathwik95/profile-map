@@ -1,2 +1,8 @@
-# profile-map
-A React-based web app to view and manage user profiles with interactive maps. Users can explore profiles, see address locations via Google Maps or Mapbox, and use search and filter options. Admins can add, edit, or delete profiles through a dedicated dashboard.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
